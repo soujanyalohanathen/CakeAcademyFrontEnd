@@ -4,7 +4,7 @@
     font-family:  sans-serif;
 }
 .header{
-    min-height: auto;
+    min-height: 100vh;
     min-width: 100%;
     background-image: linear-gradient(rgba(70,10,40,0.7),rgba(50,10,40,0.7)), url(1.jpg);
     background-position: center;
@@ -107,7 +107,7 @@ nav .fa{
 @media(max-width:1000px){
     .text-box h1{
         font-size: 40px;
-        height: auto;
+        
     }
     .nav-links ul li{
         display: block;
